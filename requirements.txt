@@ -1,0 +1,8 @@
+import fastapi
+import pandas
+import uvicorn
+
+
+fastapi
+uvicorn
+pandas
